@@ -1,6 +1,8 @@
-# flutterappdemo
+# I-am-rich
 
-A new Flutter application.
+This is a Flutter application .
+
+![alt text](https://github.com/amjad/I-am-rich/blob/master/I am Rich.png?raw=true)
 
 ## Getting Started
 
