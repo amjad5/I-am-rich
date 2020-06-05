@@ -2,7 +2,7 @@
 
 This is a Flutter application .
 
-![alt text](https://github.com/amjad/I-am-rich/blob/master/I%20am%20Rich.png?raw=true)
+![Screen Shot](https://github.com/amjad5/I-am-rich/blob/master/I%20am%20Rich.png?raw=true)
 
 ## Getting Started
 
